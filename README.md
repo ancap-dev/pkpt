@@ -4,7 +4,7 @@ Simple messaging system based on Java Sockets
 ## Maven
 
 
-```
+```xml
 <repositories>
     <repository>
         <id>pkpt-mvn-repo</id>
@@ -27,7 +27,7 @@ Simple messaging system based on Java Sockets
 
 ## Usage
 
-```
+```java
 public class Example {
 
     @SneakyThrows
